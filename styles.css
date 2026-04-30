@@ -834,3 +834,18 @@ a { text-decoration: none; color: inherit; }
   transform: scale(1.05);
   box-shadow: 0 10px 20px rgba(0,0,0,0.2);
 }
+.btn-whatsapp {
+  display: inline-block;
+  background: #25D366;
+  color: white;
+  padding: 12px 25px;
+  border-radius: 30px;
+  text-decoration: none;
+  font-size: 16px;
+  transition: 0.3s;
+}
+
+.btn-whatsapp:hover {
+  background: #1ebe5d;
+  transform: scale(1.05);
+}
